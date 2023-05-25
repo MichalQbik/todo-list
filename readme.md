@@ -1,1 +1,1 @@
-zmiana - kubik michal
+zmiana 12345 - kubik michal
